@@ -1,199 +1,188 @@
 <div align="center">
 
-<img src="assets/phone-header.svg" alt="Retro phone: Hello, I'm Felipe. Systems Engineering student. CEO at Runzone." width="100%"/>
+<img src="assets/phone-header.svg" alt="Animated retro Nokia-style phone profile header" width="100%"/>
 
-**&#9660; MAIN MENU &mdash; pick a number &#9660;**
+### ▼ MAIN MENU — SELECT A SECTION ▼
 
-<table align="center"><tr>
-<td align="center"><a href="#about"><img src="https://img.shields.io/badge/1-ABOUT-2f6bff?style=for-the-badge&labelColor=0d1b45" alt="ABOUT"/></a></td>
-<td align="center"><a href="#runzone"><img src="https://img.shields.io/badge/2-RUNZONE-ff7a1a?style=for-the-badge&labelColor=0d1b45" alt="RUNZONE"/></a></td>
-<td align="center"><a href="#stack"><img src="https://img.shields.io/badge/3-TECH-e63946?style=for-the-badge&labelColor=0d1b45" alt="TECH"/></a></td>
-</tr><tr>
-<td align="center"><a href="#projects"><img src="https://img.shields.io/badge/4-PROJECTS-0d9fb0?style=for-the-badge&labelColor=0d1b45" alt="PROJECTS"/></a></td>
-<td align="center"><a href="#stats"><img src="https://img.shields.io/badge/5-INBOX-8a4fff?style=for-the-badge&labelColor=0d1b45" alt="INBOX"/></a></td>
-<td align="center"><a href="#snake"><img src="https://img.shields.io/badge/6-SNAKE-1fb84f?style=for-the-badge&labelColor=0d1b45" alt="SNAKE"/></a></td>
-</tr></table>
+[1 · ABOUT](#about)　|　[2 · RUNZONE](#runzone)　|　[3 · TECH STACK](#tech-stack)  
+[4 · PROJECTS](#projects)　|　[5 · STATS](#github-stats)　|　[6 · CONTACT](#contact)
+
+![Status](https://img.shields.io/badge/STATUS-BUILDING-1d3826?style=for-the-badge&labelColor=081b13)
+![Location](https://img.shields.io/badge/BASE-BOGOT%C3%81%2C%20COLOMBIA-1d3826?style=for-the-badge&labelColor=081b13)
 
 </div>
 
 ---
 
-<a id="about"></a>
-## &#9742; 1 &middot; ABOUT ME
+## ☎ 1 · ABOUT ME <a id="about"></a>
 
 ```text
-+--------------------------------------------------+
-|  NAME ....... Felipe                             |
-|  STUDYING ... Systems Engineering (ECI, Bogota)  |
-|  ROLE ....... CEO @ Runzone                      |
-|  BUILDS ..... web apps, backend services, cloud  |
-|  MOTTO ...... Ship it. Test it. Run it.          |
-+--------------------------------------------------+
++------------------------------------------------------+
+| USER       : Andres Felipe Pineda                    |
+| BASE       : Bogota, Colombia                        |
+| STUDIES    : Systems Engineering                     |
+| FOCUS      : Software Development / AI-assisted tools|
+| BUILDING   : Runzone                                  |
+| STATUS     : Learning, shipping, improving           |
++------------------------------------------------------+
 ```
 
-I'm a Systems Engineering student at **Escuela Colombiana de Ingenier&iacute;a Julio Garavito** building full web products: React frontends, Java / Spring Boot services, CI/CD pipelines and cloud deployments. I'm also the **CEO of Runzone**, an app to **capture zones while you run**.
+I'm a Systems Engineering student at **Escuela Colombiana de Ingeniería Julio Garavito** in Bogotá, focused on building software through practical projects. My experience includes Java development, backend APIs, web interfaces, database fundamentals, testing, and collaborative development workflows.
+
+I'm also developing **Runzone**, a gamified running app concept built around geolocation and zone capture.
+
+> **MOTTO:** Build it. Test it. Improve it.
 
 ---
 
-<a id="runzone"></a>
-## &#127939; 2 &middot; RUNZONE
+## 🏃 2 · RUNZONE <a id="runzone"></a>
 
 <div align="center">
-<img src="assets/runzone-zones.svg" alt="A runner closes a loop and captures a zone on the map" width="100%"/>
+<img src="assets/runzone-zones.svg" alt="Animated retro map showing a running route and captured zone" width="100%"/>
 </div>
 
-**Runzone** is an app to **capture zones while you run**. I lead the product as CEO.
+**Runzone** is a gamified running app concept where users run, capture real-world zones, complete challenges, and compete on local rankings.
+
+- 📍 Geolocation-based routes and zone capture
+- 🏁 Challenges, progression, and local rankings
+- 👤 Fitness profile and activity history
+- 🛍️ Potential local-business discovery and promotion
+
+The product is under development. These describe the product direction, not a claim that every feature is already released.
 
 ---
 
-<a id="stack"></a>
-## &#128190; 3 &middot; TECH MENU
+## 💾 3 · TECH STACK <a id="tech-stack"></a>
+
+> Technologies are grouped by project experience and learning focus. A badge does not imply professional-level mastery of every tool.
+
+### Frontend & UI
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/REST_APIs-444444?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=222222" alt="Swagger"/>
+</p>
+
+### Databases & Messaging
+
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+</p>
+
+### DevOps, Testing & Design
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"/>
+<img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+</p>
+
+**Practices:** Object-Oriented Programming · SOLID · MVC · Hexagonal Architecture · Unit Testing · CI/CD · API Documentation · AI-assisted Development
+
+---
+
+## 🚀 4 · PROJECTS <a id="projects"></a>
+
+### PATRICI.A / EciBuddy — Student Community Platform
+
+A platform for university students to find study groups and create or join academic, social, and sports activities (“parchas”).
+
+**Frontend repository:** [DOSW-Patricia_EveetandoResponsabilidades-FrontEnd](https://github.com/Pip3Pined4/DOSW-Patricia_EveetandoResponsabilidades-FrontEnd)
+
+- React, TypeScript, Tailwind CSS, Vite, React Router, and Axios
+- Login and registration flows, including social sign-in integrations
+- Activity discovery and student profiles
+- GitHub Actions and Azure deployment work
+
+### PATRICI.A — Authentication Service
+
+**Repository:** [snorlax-energy-auth-service](https://github.com/PATRICI-A/snorlax-energy-auth-service)
+
+- Java 21 and Spring Boot
+- Authentication flows, OTP verification, and token handling
+- Hexagonal architecture
+- Redis, RabbitMQ, JWT, Docker, JUnit 5, and Swagger
+- Automated tests and code-quality tooling
+
+### Academic & Practice Repositories
+
+- [DOSW-Library](https://github.com/Pip3Pined4/DOSW-Library) — Java
+- [DOSW-Bootcamp-Laboratorio-02-](https://github.com/Pip3Pined4/DOSW-Bootcamp-Laboratorio-02-) — Java
+- [LABORATORIO-2-SOLID](https://github.com/Pip3Pined4/LABORATORIO-2-SOLID) — SOLID practice
+- [Preparcial-Segundo-Corte---DOSW-2](https://github.com/Pip3Pined4/Preparcial-Segundo-Corte---DOSW-2) — coursework
+- [bitacora-dosw-Andres-Pineda](https://github.com/Pip3Pined4/bitacora-dosw-Andres-Pineda) — development log
+- [DOSW-Lab1-2026-1-AndresPineda](https://github.com/Pip3Pined4/DOSW-Lab1-2026-1-AndresPineda) — coursework
+- [Zeus-Codensa-Front-End](https://github.com/Pip3Pined4/Zeus-Codensa-Front-End) — frontend practice
+- [poob-c](https://github.com/Pip3Pined4/poob-c) — web/HTML practice
+- [numerosComple](https://github.com/Pip3Pined4/numerosComple) — Python
+- [libreria2vecto](https://github.com/Pip3Pined4/libreria2vecto) — Python
+
+---
+
+## 📟 5 · GITHUB STATS <a id="github-stats"></a>
 
 <div align="center">
 
-<p><b>&#9658; FRONTEND</b><br/>
-<img src="https://img.shields.io/badge/React-2f6bff?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-2f6bff?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-2f6bff?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Vite-2f6bff?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/React%20Router-2f6bff?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/>
-<img src="https://img.shields.io/badge/Axios-2f6bff?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
-<img src="https://img.shields.io/badge/HTML5-2f6bff?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-2f6bff?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-<p><b>&#9658; BACKEND</b><br/>
-<img src="https://img.shields.io/badge/Java%2021-ff7a1a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-ff7a1a?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Node.js-ff7a1a?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Python-ff7a1a?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JWT-ff7a1a?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/Swagger-ff7a1a?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
-<img src="https://img.shields.io/badge/Hexagonal%20Architecture-ff7a1a?style=for-the-badge" alt="Hexagonal Architecture"/>
-</p>
-<p><b>&#9658; DATA & MESSAGING</b><br/>
-<img src="https://img.shields.io/badge/Redis-e63946?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/RabbitMQ-e63946?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-</p>
-<p><b>&#9658; DEVOPS & CLOUD</b><br/>
-<img src="https://img.shields.io/badge/Docker-0d9fb0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-0d9fb0?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Azure-0d9fb0?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Maven-0d9fb0?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-<img src="https://img.shields.io/badge/Git-0d9fb0?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-<p><b>&#9658; QUALITY & DESIGN</b><br/>
-<img src="https://img.shields.io/badge/JUnit%205-8a4fff?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"/>
-<img src="https://img.shields.io/badge/SonarCloud-8a4fff?style=for-the-badge&logo=sonarqubecloud&logoColor=white" alt="SonarCloud"/>
-<img src="https://img.shields.io/badge/Figma-8a4fff?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pip3Pined4&show_icons=true&theme=merko&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pip3Pined4&layout=compact&theme=merko&hide_border=true" alt="Most used public repository languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Pip3Pined4&theme=merko&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
----
-
-<a id="projects"></a>
-## &#128640; 4 &middot; PROJECTS
-
-<details open>
-<summary><b>&#9654; PATRICI.A (EciBuddy)</b> &mdash; community platform for university students</summary>
-<br/>
-
-A web platform that connects university students, lets them form study groups and create **"parchas"** for academic and entertainment activities. It is split into a React frontend and independent backend modules.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Frontend** &mdash; [`DOSW-Patricia_EveetandoResponsabilidades-FrontEnd`](https://github.com/Pip3Pined4/DOSW-Patricia_EveetandoResponsabilidades-FrontEnd)
-
-- Login / register with email, Google and Facebook
-- "Find your Vibe" dashboard: *Perfect Matches* + *University Pulse*
-- Create, discover and join parchas (Academic, Social, Sports)
-- Profile with *Social Progress* (XP, events, clubs, milestones)
-- Floating support chatbot
-- 3-level error handling (auth, validation, server/network)
-- GitHub Actions CI/CD + Azure App Service
-
-`React 18` `TypeScript` `Tailwind` `Vite` `React Router` `Axios` `Figma`
-
-</td>
-<td width="50%" valign="top">
-
-**Auth Service (M01)** &mdash; [`PATRICI-A/snorlax-energy-auth-service`](https://github.com/PATRICI-A/snorlax-energy-auth-service)
-
-- OTP email verification, login, refresh-token rotation, logout
-- Forgot / reset / change password flows
-- Account lockout after 5 failed attempts
-- Hexagonal architecture (ports &amp; adapters)
-- 97% instruction coverage (JaCoCo) + SonarCloud
-- Multi-stage Docker build, CI/CD to Azure, Swagger docs
-
-`Java 21` `Spring Boot` `Redis` `RabbitMQ` `JWT` `Docker` `JUnit 5`
-
-</td>
-</tr>
-</table>
-</details>
-
-<details>
-<summary><b>&#9654; LAB ARCHIVE</b> &mdash; coursework and practice repos</summary>
-<br/>
-
-- [`DOSW-Library`](https://github.com/Pip3Pined4/DOSW-Library) &mdash; Java
-- [`DOSW-Bootcamp-Laboratorio-02-`](https://github.com/Pip3Pined4/DOSW-Bootcamp-Laboratorio-02-) &mdash; Java
-- [`Zeus-Codensa-Front-End`](https://github.com/Pip3Pined4/Zeus-Codensa-Front-End) &mdash; CSS
-- [`LABORATORIO-2-SOLID`](https://github.com/Pip3Pined4/LABORATORIO-2-SOLID)
-- [`Preparcial-Segundo-Corte---DOSW-2`](https://github.com/Pip3Pined4/Preparcial-Segundo-Corte---DOSW-2)
-- [`bitacora-dosw-Andres-Pineda`](https://github.com/Pip3Pined4/bitacora-dosw-Andres-Pineda)
-- [`DOSW-Lab1-2026-1-AndresPineda`](https://github.com/Pip3Pined4/DOSW-Lab1-2026-1-AndresPineda)
-- [`poob-c`](https://github.com/Pip3Pined4/poob-c) &mdash; HTML
-- [`numerosComple`](https://github.com/Pip3Pined4/numerosComple) &mdash; Python
-- [`libreria2vecto`](https://github.com/Pip3Pined4/libreria2vecto) &mdash; Python
-
-</details>
+<sub>These cards use external services and may occasionally be unavailable or rate-limited. Language statistics reflect public repository code, not overall skill level.</sub>
 
 ---
 
-<a id="stats"></a>
-## &#128233; 5 &middot; INBOX &amp; STATS
-
-<div align="center">
-<img src="assets/stats.svg" alt="GitHub stats: public repos, stars, last push and top languages" width="100%"/>
-<br/><br/>
-<img src="assets/inbox.svg" alt="Inbox with my most recently updated repositories" width="100%"/>
-</div>
-
-<sub>Stats refresh automatically every day with GitHub Actions.</sub>
-
----
-
-<a id="snake"></a>
-## &#128013; 6 &middot; SNAKE.EXE
+## 🐍 6 · SNAKE.EXE <a id="snake"></a>
 
 <div align="center">
 
-<a href="https://pip3pined4.github.io/Pip3Pined4/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20SNAKE-PRESS%20START-1fb84f?style=for-the-badge&labelColor=0d1b45" alt="Play Snake"/></a>
+<img src="assets/snake-footer.svg" alt="Retro pixel-art Snake footer" width="100%"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Pip3Pined4/Pip3Pined4/output/github-snake.svg" alt="A snake eating my contribution graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/Pip3Pined4/Pip3Pined4/output/github-contribution-grid-snake.svg" alt="Snake animation eating the contribution graph" width="100%"/>
 
 </div>
 
 ---
 
-## &#128222; CONNECT
+## ☎ CONTACT <a id="contact"></a>
 
 <div align="center">
 
-<a href="https://github.com/Pip3Pined4"><img src="https://img.shields.io/badge/GitHub-Pip3Pined4-0d1b45?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<!-- Add your links and remove the comment marks:
-<a href="https://www.linkedin.com/in/YOUR-USER"><img src="https://img.shields.io/badge/LinkedIn-Felipe-2f6bff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Say%20hi-e63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
--->
+[![GitHub](https://img.shields.io/badge/GitHub-Pip3Pined4-0c231c?style=for-the-badge&logo=github&logoColor=b2da8b)](https://github.com/Pip3Pined4)
 
-<br/>
+<!-- Add your LinkedIn URL or public professional email when you are ready to publish them. -->
 
-<sub>&#9742; Press any key to connect.</sub>
+THANKS FOR VISITING · PRESS START TO CONNECT
 
 </div>
+
