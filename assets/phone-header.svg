@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">Retro Nokia-style pixel phone</title><desc id="desc">A retro pixel-art phone with a running character and blinking status display.</desc>
+<defs><pattern id="grid" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M12 0H0V12" fill="none" stroke="#8fbd6d" stroke-opacity=".12"/></pattern></defs>
+<rect width="1000" height="300" rx="18" fill="#081b13"/><rect width="1000" height="300" rx="18" fill="url(#grid)"/>
+<g transform="translate(80 20)">
+<rect x="0" y="0" width="170" height="260" rx="22" fill="#c7d3ad" stroke="#71835f" stroke-width="5"/>
+<rect x="16" y="26" width="138" height="112" rx="5" fill="#14291b" stroke="#526b43" stroke-width="4"/>
+<rect x="23" y="33" width="124" height="98" fill="#b5d88b"/>
+<text x="85" y="48" text-anchor="middle" font-family="monospace" font-size="10" fill="#284c2b">RUNZONE OS</text>
+<g transform="translate(58 55)">
+<rect x="20" y="0" width="17" height="17" fill="#173e2a"/><rect x="16" y="17" width="25" height="28" fill="#173e2a"/>
+<rect x="2" y="22" width="14" height="8" fill="#173e2a"/><rect x="41" y="22" width="14" height="8" fill="#173e2a"/>
+<rect x="18" y="45" width="9" height="21" fill="#173e2a"/><rect x="31" y="45" width="9" height="21" fill="#173e2a"/>
+<rect x="8" y="65" width="22" height="7" fill="#173e2a"/><rect x="32" y="65" width="22" height="7" fill="#173e2a"/>
+<rect x="24" y="5" width="4" height="4" fill="#b5d88b"><animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/></rect>
+</g>
+<text x="85" y="119" text-anchor="middle" font-family="monospace" font-size="8" fill="#284c2b">PRESS START</text>
+<g fill="#758866"><rect x="26" y="155" width="118" height="8" rx="4"/><rect x="26" y="171" width="118" height="8" rx="4"/><rect x="26" y="187" width="118" height="8" rx="4"/></g>
+<g fill="#3e5940"><circle cx="49" cy="222" r="13"/><circle cx="85" cy="222" r="13"/><circle cx="121" cy="222" r="13"/></g><rect x="73" y="244" width="24" height="5" rx="2" fill="#71835f"/>
+</g>
+<g transform="translate(300 58)">
+<text x="0" y="25" fill="#b5d88b" font-family="monospace" font-size="18" letter-spacing="5">WELCOME, PLAYER_1</text>
+<text x="0" y="88" fill="#f0f7e9" font-family="monospace" font-weight="bold" font-size="42">ANDRES PINEDA</text>
+<text x="0" y="126" fill="#b5d88b" font-family="monospace" font-size="21">SYSTEMS ENGINEERING · SOFTWARE BUILDER</text>
+<text x="0" y="173" fill="#82a873" font-family="monospace" font-size="17">BUILD IT. TEST IT. IMPROVE IT.</text>
+<rect x="0" y="195" width="330" height="26" rx="3" fill="#1d3826"/><text x="12" y="213" fill="#b5d88b" font-family="monospace" font-size="13">STATUS: <tspan>ONLINE</tspan><animate attributeName="opacity" values="1;.35;1" dur="1.4s" repeatCount="indefinite"/></text>
+<g transform="translate(600 100)" fill="#b5d88b"><rect x="0" y="0" width="8" height="20"/><rect x="14" y="-10" width="8" height="30"/><rect x="28" y="-20" width="8" height="40"/><rect x="42" y="-30" width="8" height="50"/></g>
+</g>
+</svg>
